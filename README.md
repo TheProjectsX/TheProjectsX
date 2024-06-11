@@ -7,10 +7,11 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/modasser-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modasser-hasan" height="30" width="40" /></a>
-<a href="https://fb.com/projectsx.author" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="projectsx.author" height="30" width="40" /></a>
-</p>
+<div align="center">
+<a href="https://linkedin.com/in/modasser-hasan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="modasser-hasan"/></a>
+<a href="https://fb.com/projectsx.author" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="projectsx.author"/></a>
+<a href="https://telegram.com/MrProjectsX" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="MrProjectsX"/></a>
+</div>
 
 <br>
 <h3>GitHub Stats</h3>
