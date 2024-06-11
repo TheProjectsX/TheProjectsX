@@ -15,9 +15,13 @@
 
 <br>
 <h3>GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprojectsx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="theprojectsx" /></p>
+<a href="https://github.com/theprojectsx">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprojectsx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Modasser Hasan's most used languages" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theprojectsx&show_icons=true&locale=en&theme=algolia" alt="theprojectsx" /></p>
+<a href="https://github.com/theprojectsx">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=theprojectsx&show_icons=true&theme=algolia&line_height=27&include_all_commits=true&count_private=true&hide=prs,contribs" alt="Modasser Hasan's github stats"/>
+</a>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
