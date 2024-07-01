@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Modasser Hasan</h1>
-<h3 align="center">A passionate Web Developer</h3>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theprojectsx&theme=react&background=0D1117&fire=FF1CF7" alt="theprojectsx" /></p>
-
-- 📫 How to reach me **modassermubin@gmail.com**
+<a href="https://github.com/TheProjectsX"><p align="center"><img src="https://raw.githubusercontent.com/TheProjectsX/TheProjectsX/main/images/github_banner.png" alt="Modasser Hasan" width="650"/></p></a>
+<p align="center">Motivated and detail-oriented Junior Web Developer with a strong foundation in web technologies,
+passionate about creating innovative and efficient web applications</p>
+- 📫 How to reach me <b>modassermubin@gmail.com</b>
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -13,8 +11,10 @@
 <a href="https://telegram.com/MrProjectsX" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="MrProjectsX"/></a>
 </div>
 
-<br>
-<h3>GitHub Stats</h3>
+
+<h3 align="left">Current Stats:</h3>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theprojectsx&theme=react&background=0D1117&fire=FF1CF7&hide_border=true" alt="theprojectsx" /></p>
+
 <a href="https://github.com/theprojectsx">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprojectsx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Modasser Hasan's most used languages" />
 </a>
