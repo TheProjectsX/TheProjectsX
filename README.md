@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Modasser Hasan</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theprojectsx&theme=algolia" alt="theprojectsx" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theprojectsx&theme=algolia&title=Repositories,Commits,Stars,Followers,Experience" alt="theprojectsx" /></p>
 
 - 📫 How to reach me **modassermubin@gmail.com**
 
