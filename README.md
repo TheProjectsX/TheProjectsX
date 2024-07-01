@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github.com/theprojectsx">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=theprojectsx&show_icons=true&theme=algolia&line_height=27&include_all_commits=true&count_private=true&hide=prs,contribs" alt="Modasser Hasan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=theprojectsx&show_icons=true&theme=algolia&line_height=27&count_private=true&hide=prs,contribs" alt="Modasser Hasan's github stats"/>
 </a>
 
 <br>
