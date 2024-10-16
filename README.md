@@ -1,4 +1,4 @@
-<a href="https://github.com/TheProjectsX"><p align="center"><img src="https://raw.githubusercontent.com/TheProjectsX/TheProjectsX/main/images/github_banner.png" alt="Modasser Hasan" width="650"/></p></a>
+<a href="https://github.com/TheProjectsX"><p align="center"><img src="https://raw.githubusercontent.com/TheProjectsX/TheProjectsX/main/images/github_banner.png" alt="Modasser Hasan" width="650"/></p></a> 
 <p align="center">Motivated and detail-oriented Junior Web Developer with a strong foundation in web technologies,
 passionate about creating innovative and efficient web applications</p>
 - 📫 How to reach me <b><a href="mailto:modasserhasan04@gmail.com">modasserhasan04@gmail.com</a></b>
