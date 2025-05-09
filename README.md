@@ -13,7 +13,7 @@ passionate about creating innovative and efficient web applications</p>
 
 
 <h3 align="left">Current Stats:</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theprojectsx&theme=react&background=0D1117&fire=FF1CF7&hide_border=true" alt="theprojectsx" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=TheProjectsX&theme=algolia&background=050E2B&fire=FF1CF7" alt="theprojectsx" /></p> 
 
 <a href="https://github.com/theprojectsx">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprojectsx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Modasser Hasan's most used languages" />
